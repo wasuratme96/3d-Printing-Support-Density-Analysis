@@ -3,7 +3,7 @@
 ## Background
 When transform CAD design into actual part, 3D printing is one of the fastest options. <br>
 But when it come to the strong, light-weight and high chemical resistance, titanium is well-known in this area. <br>
-
+![jpeg](img/titanium example.jpeg)
 
 It is also best in biocompatibility, which make it an ideal materials for medical applications such as implant device. <br>
 By the way, titatnium is difficult metal to work with machining method due to its low thermal condictivity. <br>
