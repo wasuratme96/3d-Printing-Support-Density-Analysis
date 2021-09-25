@@ -9,3 +9,5 @@ It is also best in biocompatibility, which make it an ideal materials for medica
 By the way, titatnium is difficult metal to work with machining method due to its low thermal condictivity. <br>
 Which mean all the heat generated during machining process will be stored in the machining tool. <br>
 Wear rate would be accerelated.
+
+With all above reason.
